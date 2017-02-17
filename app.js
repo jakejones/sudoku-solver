@@ -3,15 +3,15 @@ var app = new Vue({
   el: '#app',
   data: {
     stage: [
-          [3   ,8   ,5   ,null,null,null,null,null,2   ],
-          [2   ,6   ,9   ,null,null,1   ,null,null,5   ],
-          [1   ,7   ,4   ,null,null,null,null,3   ,null],
-          [6   ,null,null,9   ,8   ,null,5   ,7   ,null],
-          [9   ,null,7   ,1   ,null,6   ,null,null,8   ],
-          [null,null,null,7   ,2   ,null,null,null,4   ],
-          [null,null,6   ,null,null,null,null,null,null],
-          [7   ,1   ,null,null,null,null,4   ,null,6   ],
-          [4   ,null,null,null,null,8   ,null,null,null]
+          [null,null,null,null,null,null,null,null,null],
+          [null,null,null,null,null,null,null,null,null],
+          [null,null,null,null,null,null,null,null,null],
+          [null,null,null,null,null,null,null,null,null],
+          [null,null,null,null,null,null,null,null,null],
+          [null,null,null,null,null,null,null,null,null],
+          [null,null,null,null,null,null,null,null,null],
+          [null,null,null,null,null,null,null,null,null],
+          [null,null,null,null,null,null,null,null,null]
     		],
     editable: true
   },
@@ -75,7 +75,7 @@ var app = new Vue({
           [5   ,null,null,null,null,2   ,4   ,null,null]
 
 
-                    [null,null,null,null,null,null,null,null,null],
+          [null,null,null,null,null,null,null,null,null],
           [null,null,null,null,null,null,null,null,null],
           [null,null,null,null,null,null,null,null,null],
           [null,null,null,null,null,null,null,null,null],
